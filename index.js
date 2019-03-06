@@ -16,7 +16,9 @@ var resumePrompts = {
 };
 
 function main() {
-  console.log(" Hello,My name is Saif and welcome to my resume ");
+  console.log(" ");
+  console.log(" Hello,My name is Saif and welcome to my resume (^-^) ");
+  console.log(" ");
   resumeHandler();
 }
 

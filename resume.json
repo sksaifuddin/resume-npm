@@ -1,9 +1,37 @@
 {
-    "Education": [
-        "Failed highSchool",
-        "Failed Engineering"
+    "Brief OverView": [
+        " I am a budding professional with extensive knowledge in concepts of Information technology and systems.",
+        "Code is my LIfe",
+        "I believe  code should be like an Art , beautiful and Amazing",
+        "Effective communicator with excellent relationship building and interpersonal skills.",
+        "Enthusiastic about technology and programming"
     ],
-    "Work": [
-        "I dont Work(Thug Life)"
+    "Technical Skills": [
+        "Javascript",
+        "Typescript",
+        "Angular 2+",
+        "Nodejs(express, loopback, nestjs)",
+        "Socket.io",
+        "Functional Programming",
+        "HTML and CSS (Flexbox, CSS Grid)"
+    ],
+    "Education": [
+        "B.E in Information Technology with 72%",
+        "Intermediate with 89.2 %",
+        "SSC  with 82%"
+    ],
+    "Experience": [
+        "Worked as Frontend web developer and SEO expert in Akkam Immigration Services ",
+        "Software Developer at Abjayon Consulting (on going)"
+    ],
+    "Personal Details": [
+        "Email: shaiksaifuddin95@gmail.com",
+        "Number: 8977875670",
+        "Github: sksaifuddin"
+    ],
+    "Hobbies": [
+        "Surfing on net and discovering new Technologies",
+        "Playing video games",
+        "Netflix and Chill"
     ]
 }
